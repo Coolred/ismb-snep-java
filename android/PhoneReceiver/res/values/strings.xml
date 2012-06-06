@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISMB-SNEP</string>
+    <string name="info">This application allows you to receive data from ISMB-SNEP-JAVA library application.
+        Put the phone over the ACR-122 reader and good luck</string>
+    <string name="menu_settings">Android Beam settings</string>
+</resources>
